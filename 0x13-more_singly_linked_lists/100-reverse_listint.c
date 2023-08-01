@@ -2,9 +2,9 @@
 
 
 /**
- * reverse_listint - reverse a linked list 
- * @head: pointer to the first node int he list
- * Return: pointer to the first node in the new list 
+ * reverse_listint -reverse a linked list 
+ * @head:pointer to the first node int he list
+ * Return:pointer to the first node in the new list 
  */
 
 
